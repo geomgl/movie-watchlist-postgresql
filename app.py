@@ -1,8 +1,5 @@
 import datetime
 import database
-from dotenv import load_dotenv
-
-load_dotenv()
 
 menu = """Please select one of the following options:
 1) Add new movie.
